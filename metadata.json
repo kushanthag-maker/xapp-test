@@ -1,0 +1,6 @@
+{
+  "name": "CineFlix",
+  "description": "Stream, explore, and download trending movies with offline playback, video previews, watchlists, and rich movie details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
